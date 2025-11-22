@@ -1,6 +1,6 @@
 // Data: update thumbnail paths and templateLink values as needed
 const templates = [
-  { id:1, name:"Clean home service", thumbnail:"screenshots/s1.gif", templateLink:"https://demosites.royal-elementor-addons.com/cleaning-v1/?ref=rea-plugin-backend-templates" },
+  { id:1, name:"Clean home service", thumbnail:"screenshots/s1.png", templateLink:"https://demosites.royal-elementor-addons.com/cleaning-v1/?ref=rea-plugin-backend-templates" },
   { id:2, name:"online course", thumbnail:"screenshots/s2.gif", templateLink:"https://demosites.royal-elementor-addons.com/online-course-v1/" },
   { id:3, name:"exchange", thumbnail:"screenshots/s3.gif", templateLink:"https://demosites.royal-elementor-addons.com/landing-page-investment-platform-v1/?ref=rea-plugin-backend-templates" },
   { id:4, name:"fashion", thumbnail:"screenshots/s4.png", templateLink:"https://demosites.royal-elementor-addons.com/shop-wooshop-v2/?ref=rea-plugin-backend-templates" },
